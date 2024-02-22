@@ -4,7 +4,7 @@ This was an Image Processing project that I used to generate my profile pic when
 </br></br>The project uses [OpenCV](https://pypi.org/project/opencv-python/) and runs until the user decides to terminate the program.
 <br>
 ## To run
-Open up a terminal environment (preferably Linux or MacOS) and run the following:<br>
+Open up a terminal environment (preferably Linux or MacOS) and run the following:<br><br>
 `pip install opencv-python`<br>
 `pip install numpy`<br>
 `python3 profile-pic.py`<br><br>
